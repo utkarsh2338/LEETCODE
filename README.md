@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/utkarsh2338/LEETCODE/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/utkarsh2338/LEETCODE/tree/master/0048-rotate-image) |
+| [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/utkarsh2338/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/utkarsh2338/LEETCODE/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/utkarsh2338/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
