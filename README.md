@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/utkarsh2338/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/utkarsh2338/LEETCODE/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/utkarsh2338/LEETCODE/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/utkarsh2338/LEETCODE/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/utkarsh2338/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/utkarsh2338/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/utkarsh2338/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/utkarsh2338/LEETCODE/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/utkarsh2338/LEETCODE/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/utkarsh2338/LEETCODE/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/utkarsh2338/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1022-unique-paths-iii) |
 ## Matrix
