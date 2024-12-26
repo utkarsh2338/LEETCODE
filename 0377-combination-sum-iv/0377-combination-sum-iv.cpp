@@ -12,9 +12,15 @@ public:
         if(t[idx][target] != -1){
             return t[idx][target];
         }
-        int take_idx = solve(0,target-nums[idx],nums);
-        int not_take_idx = solve(idx+1,target,nums);
-        return t[idx][target] = take_idx + not_take_idx;
+        // int take_idx = solve(0,target-nums[idx],nums);
+        // int not_take_idx = solve(idx+1,target,nums);
+        // another method
+        int result = 0;
+        for(int i=0;i<n;i++){
+            int take_idx = solve(0,target-nums[i],nums);
+            result += take_idx;
+        }
+        return t[idx][target] = result;
 
     } 
     int combinationSum4(vector<int>& nums, int target) {
