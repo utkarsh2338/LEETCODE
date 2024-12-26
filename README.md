@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
 | [1022-unique-paths-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1022-unique-paths-iii) |
+| [1418-fair-distribution-of-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/1418-fair-distribution-of-cookies) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/utkarsh2338/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Stack
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/utkarsh2338/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/utkarsh2338/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/utkarsh2338/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [1418-fair-distribution-of-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/1418-fair-distribution-of-cookies) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/utkarsh2338/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1022-unique-paths-iii) |
+| [1418-fair-distribution-of-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/1418-fair-distribution-of-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -194,8 +197,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1022-unique-paths-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1022-unique-paths-iii) |
+| [1418-fair-distribution-of-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/1418-fair-distribution-of-cookies) |
 ## Graph
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/utkarsh2338/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
