@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/utkarsh2338/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/utkarsh2338/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2358-number-of-ways-to-split-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/utkarsh2338/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/utkarsh2338/LEETCODE/tree/master/3431-find-the-minimum-cost-array-permutation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/utkarsh2338/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/2465-shifting-letters-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -269,4 +271,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
