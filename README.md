@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/utkarsh2338/LEETCODE/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0966-binary-subarrays-with-sum) |
 | [1022-unique-paths-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/utkarsh2338/LEETCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0966-binary-subarrays-with-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/utkarsh2338/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarsh2338/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarsh2338/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh2338/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/utkarsh2338/LEETCODE/tree/master/0878-shifting-letters) |
+| [0966-binary-subarrays-with-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh2338/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
