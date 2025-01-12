@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/utkarsh2338/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/utkarsh2338/LEETCODE/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/utkarsh2338/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/utkarsh2338/LEETCODE/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/utkarsh2338/LEETCODE/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/utkarsh2338/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [0424-longest-repeating-character-replacement](https://github.com/utkarsh2338/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0878-shifting-letters](https://github.com/utkarsh2338/LEETCODE/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarsh2338/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/utkarsh2338/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh2338/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
