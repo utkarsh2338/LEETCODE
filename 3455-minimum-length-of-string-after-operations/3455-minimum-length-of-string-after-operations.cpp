@@ -12,7 +12,8 @@ public:
             }
         }
         int ans = 0;
-        for(int i=0;i<26;i++){
+        for(int i=0;i<26;i++){ 
+            // the sum of all the frequencies left in the array will be my answer to the question
             ans += hash[i];
         }
         return ans;
