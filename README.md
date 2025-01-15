@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
+| [2509-minimize-xor](https://github.com/utkarsh2338/LEETCODE/tree/master/2509-minimize-xor) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/utkarsh2338/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/utkarsh2338/LEETCODE/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/utkarsh2338/LEETCODE/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Graph
