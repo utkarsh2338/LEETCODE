@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/utkarsh2338/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/utkarsh2338/LEETCODE/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/2050-count-good-numbers) |
 ## String
 |  |
