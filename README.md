@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/utkarsh2338/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/utkarsh2338/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarsh2338/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2448-count-number-of-bad-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarsh2338/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/utkarsh2338/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/utkarsh2338/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/utkarsh2338/LEETCODE/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/2050-count-good-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/utkarsh2338/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarsh2338/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/utkarsh2338/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
