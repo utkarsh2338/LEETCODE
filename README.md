@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/utkarsh2338/LEETCODE/tree/master/0049-group-anagrams) |
+| [0295-find-median-from-data-stream](https://github.com/utkarsh2338/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarsh2338/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/utkarsh2338/LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/utkarsh2338/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/utkarsh2338/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/utkarsh2338/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarsh2338/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -442,4 +445,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/utkarsh2338/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/utkarsh2338/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
