@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/utkarsh2338/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarsh2338/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/utkarsh2338/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2509-minimize-xor](https://github.com/utkarsh2338/LEETCODE/tree/master/2509-minimize-xor) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh2338/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarsh2338/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/utkarsh2338/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
