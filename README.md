@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/utkarsh2338/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/utkarsh2338/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/utkarsh2338/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/utkarsh2338/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0099-recover-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 ## Design
