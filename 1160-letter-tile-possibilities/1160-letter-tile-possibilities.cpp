@@ -1,27 +1,27 @@
 class Solution {
 public:
-    unordered_set<string> st;
+    unordered_set<string>st;
     int n;
-    void solve(string &tiles,vector<bool>& visited,string current){
-        n = tiles.size();
-        // base case
-        if(!current.empty()){
-            st.insert(current);
+    void solve(string& tiles,vector<bool>& visited,string& output){
+        n = tiles.length();
+        if(!output.empty()){
+            st.insert(output);
         }
-
         for(int i=0;i<n;i++){
-            if(visited[i] || (i>0 && tiles[i] == tiles[i-1] && !visited[i-1])) continue;
-            visited[i] = true;
-            solve(tiles,visited,current+tiles[i]);
-            visited[i] = false;
+            // base case
+            if(visited[i]) continue;
+            visited[i] = true;// take
+            output.push_back(tiles[i]);
+            solve(tiles,visited,output);// explore
+            visited[i] = false;// not take
+            output.pop_back();
         }
     }
     int numTilePossibilities(string tiles) {
         n = tiles.size();
-        // sort to handle duplicates
-        sort(tiles.begin(),tiles.end());
-        vector<bool> visited(n,false);
-        solve(tiles,visited,"");
+        string output ="";
+        vector<bool>visited(n,false);
+        solve(tiles,visited,output);
         return st.size();
     }
 };
