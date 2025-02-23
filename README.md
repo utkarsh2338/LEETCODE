@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/utkarsh2338/LEETCODE/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/utkarsh2338/LEETCODE/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0966-binary-subarrays-with-sum) |
 | [1022-unique-paths-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1022-unique-paths-iii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0966-binary-subarrays-with-sum) |
 | [1160-letter-tile-possibilities](https://github.com/utkarsh2338/LEETCODE/tree/master/1160-letter-tile-possibilities) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/utkarsh2338/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/utkarsh2338/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/utkarsh2338/LEETCODE/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/utkarsh2338/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/utkarsh2338/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Two Pointers
