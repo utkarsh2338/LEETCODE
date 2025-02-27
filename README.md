@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/utkarsh2338/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/utkarsh2338/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/utkarsh2338/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/utkarsh2338/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/utkarsh2338/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarsh2338/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/1418-fair-distribution-of-cookies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/utkarsh2338/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/utkarsh2338/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2562-count-ways-to-build-good-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/2562-count-ways-to-build-good-strings) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/utkarsh2338/LEETCODE/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Backtracking
