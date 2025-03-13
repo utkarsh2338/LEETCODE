@@ -1,10 +1,12 @@
 class Solution {
 public:
     int maximumCount(vector<int>& nums) {
-        auto lambdaP = [](int num) { return num > 0; };
-        auto lambdaN = [](int num) { return num < 0; };
-        int P = count_if(begin(nums), end(nums), lambdaP);
-        int N = count_if(begin(nums), end(nums), lambdaN);
-        return max(P, N);
+        // first number jo ki >=1 hai
+        int n = nums.size();
+        int idx1 = lower_bound(begin(nums),end(nums),1) - begin(nums);
+        int posCount = n - idx1; 
+        // aur ab ham nikalenge pahla index jahapar value >= 0 hai 
+        int idx0 = lower_bound(begin(nums),end(nums),0) - begin(nums);
+        return max(posCount,idx0);
     }
 };
