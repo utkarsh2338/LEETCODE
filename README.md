@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/utkarsh2338/LEETCODE/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarsh2338/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/utkarsh2338/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3639-zero-array-transformation-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Stack
 |  |
 | ------- |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/2465-shifting-letters-ii) |
+| [3639-zero-array-transformation-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Trie
 |  |
 | ------- |
