@@ -1,18 +1,21 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        vector<bool>count(256,0);
-        int first =0,second =0;
-        int len = 0;
-        while(second<s.length()){
-            while(count[s[second]]){//jab tak count of s[second] exist kare 
-                count[s[first]]=0;
-                first++;
+        int i =0,j=0;
+        int n = s.length();
+        int ans = 0;
+        vector<int>charCount(256,0);// count store karne ke liye
+
+        while(j<n){
+            charCount[s[j]]++;// state ko update karne ki condition
+            // ab yaha par valid aur invalid wala
+            while(charCount[s[j]] > 1){
+                charCount[s[i]]--;
+                i++;
             }
-            count[s[second]] =1;
-            len = max(len,second-first+1);
-            second++; 
+            ans = max(ans,j-i+1);
+            j++;
         }
-        return len;
+        return ans;
     }
 };
