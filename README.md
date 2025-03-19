@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/utkarsh2338/LEETCODE/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/utkarsh2338/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/utkarsh2338/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Stack
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh2338/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarsh2338/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/utkarsh2338/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/utkarsh2338/LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/utkarsh2338/LEETCODE/tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Graph
 |  |
 | ------- |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/2465-shifting-letters-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Trie
 |  |
@@ -566,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh2338/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
