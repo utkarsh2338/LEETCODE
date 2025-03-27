@@ -13,7 +13,7 @@ public:
             }
         }
         
-        if(dominant == -1)return -1;
+        if(dominant == -1) return -1;
         int prefixCount = 0,suffixCount = mpp[dominant];
         for(int i=0;i<n-1;i++){
             if(nums[i] == dominant){
