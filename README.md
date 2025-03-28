@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarsh2338/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/utkarsh2338/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/utkarsh2338/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/utkarsh2338/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1962-single-threaded-cpu](https://github.com/utkarsh2338/LEETCODE/tree/master/1962-single-threaded-cpu) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarsh2338/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/utkarsh2338/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/utkarsh2338/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/utkarsh2338/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/utkarsh2338/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/utkarsh2338/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/utkarsh2338/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/utkarsh2338/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarsh2338/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/utkarsh2338/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/utkarsh2338/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarsh2338/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Indexed Tree
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/utkarsh2338/LEETCODE/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/utkarsh2338/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/utkarsh2338/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -554,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/utkarsh2338/LEETCODE/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/utkarsh2338/LEETCODE/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/utkarsh2338/LEETCODE/tree/master/1396-count-servers-that-communicate) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/utkarsh2338/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/utkarsh2338/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
