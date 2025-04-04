@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0966-binary-subarrays-with-sum) |
 | [1160-letter-tile-possibilities](https://github.com/utkarsh2338/LEETCODE/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarsh2338/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/utkarsh2338/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/utkarsh2338/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarsh2338/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/utkarsh2338/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/utkarsh2338/LEETCODE/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/utkarsh2338/LEETCODE/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/utkarsh2338/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/utkarsh2338/LEETCODE/tree/master/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarsh2338/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/utkarsh2338/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/utkarsh2338/LEETCODE/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/utkarsh2338/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/utkarsh2338/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/utkarsh2338/LEETCODE/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/utkarsh2338/LEETCODE/tree/master/1036-rotting-oranges) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarsh2338/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/utkarsh2338/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/utkarsh2338/LEETCODE/tree/master/1558-course-schedule-iv) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarsh2338/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/utkarsh2338/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Two Pointers
