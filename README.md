@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/utkarsh2338/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/utkarsh2338/LEETCODE/tree/master/0377-combination-sum-iv) |
 | [0407-trapping-rain-water-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0494-target-sum) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/utkarsh2338/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/utkarsh2338/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/utkarsh2338/LEETCODE/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/utkarsh2338/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/utkarsh2338/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
