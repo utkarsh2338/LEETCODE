@@ -1,4 +1,4 @@
-#define mod 1000000007 // Note: Fixed the mod value to 10^9 + 7
+#define mod 1000000007
 class Solution {
 public:
     long long power(long long x, long long y) {
@@ -14,8 +14,8 @@ public:
     }
 
     int countGoodNumbers(long long n) {
-        long long odd = n / 2;            // Count of odd positions
-        long long even = n / 2 + n % 2;  // Count of even positions
+        long long odd = n / 2;            
+        long long even = n / 2 + n % 2; 
         long long result = (power(5, even) * power(4, odd)) % mod;
         return result;
     }
