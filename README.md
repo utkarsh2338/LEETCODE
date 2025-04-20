@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/utkarsh2338/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0790-global-and-local-inversions](https://github.com/utkarsh2338/LEETCODE/tree/master/0790-global-and-local-inversions) |
+| [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/utkarsh2338/LEETCODE/tree/master/0854-making-a-large-island) |
 | [0878-shifting-letters](https://github.com/utkarsh2338/LEETCODE/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/utkarsh2338/LEETCODE/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/utkarsh2338/LEETCODE/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0778-reorganize-string) |
+| [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/utkarsh2338/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/utkarsh2338/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/utkarsh2338/LEETCODE/tree/master/0372-super-pow) |
 | [0790-global-and-local-inversions](https://github.com/utkarsh2338/LEETCODE/tree/master/0790-global-and-local-inversions) |
+| [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/utkarsh2338/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
