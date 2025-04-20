@@ -7,11 +7,10 @@ public:
             mpp[it]++;
         }
         for(auto& it: mpp){
-            int x = it.first;
             int groupSize = it.first+1;
             int count = it.second;
             int groups = ceil((double)count/groupSize);
-            ans += groups * (x+1);
+            ans += groups * (groupSize);
         }
         return ans;
     }
