@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/utkarsh2338/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/utkarsh2338/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/utkarsh2338/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarsh2338/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/utkarsh2338/LEETCODE/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
