@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0525-contiguous-array) |
+| [0587-erect-the-fence](https://github.com/utkarsh2338/LEETCODE/tree/master/0587-erect-the-fence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/utkarsh2338/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/utkarsh2338/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/utkarsh2338/LEETCODE/tree/master/0050-powx-n) |
 | [0368-largest-divisible-subset](https://github.com/utkarsh2338/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/utkarsh2338/LEETCODE/tree/master/0372-super-pow) |
+| [0587-erect-the-fence](https://github.com/utkarsh2338/LEETCODE/tree/master/0587-erect-the-fence) |
 | [0790-global-and-local-inversions](https://github.com/utkarsh2338/LEETCODE/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
@@ -694,4 +696,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/utkarsh2338/LEETCODE/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
