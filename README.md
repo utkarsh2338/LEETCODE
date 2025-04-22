@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/utkarsh2338/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/utkarsh2338/LEETCODE/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/utkarsh2338/LEETCODE/tree/master/0079-word-search) |
+| [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0216-combination-sum-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/utkarsh2338/LEETCODE/tree/master/0368-largest-divisible-subset) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/utkarsh2338/LEETCODE/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/utkarsh2338/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
+| [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarsh2338/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh2338/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/utkarsh2338/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/utkarsh2338/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/utkarsh2338/LEETCODE/tree/master/0050-powx-n) |
+| [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0368-largest-divisible-subset](https://github.com/utkarsh2338/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/utkarsh2338/LEETCODE/tree/master/0372-super-pow) |
 | [0587-erect-the-fence](https://github.com/utkarsh2338/LEETCODE/tree/master/0587-erect-the-fence) |
@@ -703,5 +706,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/utkarsh2338/LEETCODE/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
