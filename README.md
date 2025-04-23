@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarsh2338/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/utkarsh2338/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/utkarsh2338/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/utkarsh2338/LEETCODE/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/utkarsh2338/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarsh2338/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-global-and-local-inversions](https://github.com/utkarsh2338/LEETCODE/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/utkarsh2338/LEETCODE/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/utkarsh2338/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarsh2338/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
