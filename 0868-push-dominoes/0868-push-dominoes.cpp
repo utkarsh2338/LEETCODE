@@ -19,7 +19,7 @@ public:
                 ans += string(span,'.');
             }
             else{
-                ans += string(span/2,'R') + string(span%2,'..') + string(span/2,'L');
+                ans += string(span/2,'R') + string(span%2,'.') + string(span/2,'L');
             }
             prev = curr;
         }   
