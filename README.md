@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh2338/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/utkarsh2338/LEETCODE/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0778-reorganize-string) |
+| [0868-push-dominoes](https://github.com/utkarsh2338/LEETCODE/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/utkarsh2338/LEETCODE/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/utkarsh2338/LEETCODE/tree/master/1160-letter-tile-possibilities) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/utkarsh2338/LEETCODE/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/utkarsh2338/LEETCODE/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarsh2338/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/utkarsh2338/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/utkarsh2338/LEETCODE/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/utkarsh2338/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/utkarsh2338/LEETCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/utkarsh2338/LEETCODE/tree/master/1170-shortest-common-supersequence) |
