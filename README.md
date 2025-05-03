@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/utkarsh2338/LEETCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/utkarsh2338/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/utkarsh2338/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/utkarsh2338/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/utkarsh2338/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/utkarsh2338/LEETCODE/tree/master/1396-count-servers-that-communicate) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/utkarsh2338/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
