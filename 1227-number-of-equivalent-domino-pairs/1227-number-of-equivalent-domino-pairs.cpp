@@ -4,7 +4,7 @@ class Solution {
             map<pair<int, int>, int> mpp;
             int count = 0;
             for(auto& d : dominoes){
-                if(d[1] > d[0]) swap(d[0], d[1]);
+                if(d[0] > d[1]) swap(d[0], d[1]);
                 count += mpp[make_pair(d[0], d[1])]++;
             }
             return count;
