@@ -1,22 +1,23 @@
 class Solution {
 public:
     vector<int> findEvenNumbers(vector<int>& digits) {
-        vector<int>ans;
-        unordered_map<int,int>mpp;
-        for(int& it:digits){
-            mpp[it]++;
-        }
-
-        for(int i=100;i<=999;i+=2){
-            int a = i / 100;
-            int b = (i/10) % 10;
-            int c = i % 10;
-
-            unordered_map<int,int>temp = mpp;
-            if (--temp[a] >= 0 && --temp[b] >= 0 && --temp[c] >= 0) {
-                ans.push_back(i);
+        int n = digits.size();
+        set<int>st;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                for(int k=0;k<n;k++){
+                    if(i==j||j==k||k==i){
+                        continue;
+                    }
+                    int d1 = digits[i],d2 = digits[j],d3 = digits[k];
+                    if(d1 == 0) continue;
+                    int num = d1*100+d2*10+d3;
+                    if(num %2 == 0){
+                        st.insert(num);
+                    }
+                }
             }
         }
-        return ans;
+        return vector<int>(st.begin(),st.end());
     }
 };
