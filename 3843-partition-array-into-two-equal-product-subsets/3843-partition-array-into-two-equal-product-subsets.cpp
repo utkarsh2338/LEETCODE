@@ -1,28 +1,25 @@
-typedef __int128 ll;
-
 class Solution {
+private:
+    bool f(long long target,int i,vector<int>& nums){
+        if(1==target)return true;
+        if(i==nums.size())return false;
+        bool take=false;
+        if(target%nums[i]==0)take=f(target/(long long)nums[i],i+1,nums);
+        return take|f(target,i+1,nums);
+    }
 public:
     bool checkEqualPartitions(vector<int>& nums, long long target) {
-        int n = nums.size();
-        ll ans = 1;
-        for (auto it : nums) {
-            ans *= it;
-            if (ans > (ll)target * target) return false;
+        __int128 prod=1;
+        __int128 t=((__int128)target)*target;
+        for(auto x : nums){
+            prod*=x;
+            if(prod>t)
+                return false;
         }
-
-        if (ans != (ll)target * target) return false;
-
-        int maxi = (1 << n);
-        for (int i = 1; i < maxi - 1; i++) {
-            ll sub = 1;
-            for (int j = 0; j < n; j++) {
-                if (i & (1 << j)) {
-                    sub *= nums[j];
-                    if (sub > target) break;
-                }
-            }
-            if (sub == target) return true;
+        if(prod!=t) {
+            return false;
         }
-        return false;
+        int n=nums.size();
+        return f(target,0,nums);
     }
 };
