@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/utkarsh2338/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/utkarsh2338/LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/utkarsh2338/LEETCODE/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0209-minimum-size-subarray-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/0216-combination-sum-iii) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarsh2338/LEETCODE/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/utkarsh2338/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
