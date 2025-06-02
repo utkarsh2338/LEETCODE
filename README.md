@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/utkarsh2338/LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/utkarsh2338/LEETCODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0135-candy](https://github.com/utkarsh2338/LEETCODE/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0209-minimum-size-subarray-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/0216-combination-sum-iii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarsh2338/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/utkarsh2338/LEETCODE/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/utkarsh2338/LEETCODE/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0778-reorganize-string) |
