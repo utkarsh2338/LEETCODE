@@ -1,33 +1,33 @@
 class Solution {
 public:
-    void dfs(int node,vector<vector<int>>& adjLs,vector<int>& visited){
-            visited[node] = 1;
-            for(auto& it: adjLs[node]){
-                if(!visited[it]){
-                    dfs(it,adjLs,visited);
-                }
-            }
+    void dfs(int start,vector<int>& vis,vector<vector<int>>&adj){
+        vis[start] = 1;
+        for(auto it: adj[start]){
+            if(!vis[it]) dfs(it,vis,adj);
+        }
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size(); // no. of rows
-        // let's make our adjacency list
-        vector<vector<int>> adjLs(n);
+        // make an adjacency list and call dfs in a loop that's all we have to do
+        int n = isConnected.size();
+        vector<vector<int>>adj(n);
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
+            for(int j =0;j<n;j++){
                 if(isConnected[i][j] == 1 && i!=j){
-                    adjLs[i].push_back(j);
-                    adjLs[j].push_back(i);
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
                 }
             }
         }
-        int countProvince = 0;
-        vector<int>visited(n,0);
+        // ban gayi adjacency matrix ab banayenge dfs 
+        vector<int>vis(n,0);
+        int cnt = 0;
         for(int i=0;i<n;i++){
-            if(!visited[i]){
-                countProvince++;
-                dfs(i,adjLs,visited);
+            if(vis[i] == 0){
+                dfs(i,vis,adj);
+                cnt++;
             }
+ 
         }
-        return countProvince;
+        return cnt;
     }
 };
