@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/utkarsh2338/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/utkarsh2338/LEETCODE/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/utkarsh2338/LEETCODE/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/utkarsh2338/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1252-break-a-palindrome](https://github.com/utkarsh2338/LEETCODE/tree/master/1252-break-a-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/utkarsh2338/LEETCODE/tree/master/0587-erect-the-fence) |
 | [0790-global-and-local-inversions](https://github.com/utkarsh2338/LEETCODE/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [1033-broken-calculator](https://github.com/utkarsh2338/LEETCODE/tree/master/1033-broken-calculator) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/utkarsh2338/LEETCODE/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/utkarsh2338/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
