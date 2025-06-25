@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/utkarsh2338/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/utkarsh2338/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/utkarsh2338/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/utkarsh2338/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/utkarsh2338/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/utkarsh2338/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/utkarsh2338/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
