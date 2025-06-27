@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utkarsh2338/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/utkarsh2338/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/utkarsh2338/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/utkarsh2338/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/utkarsh2338/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/utkarsh2338/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/utkarsh2338/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarsh2338/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
