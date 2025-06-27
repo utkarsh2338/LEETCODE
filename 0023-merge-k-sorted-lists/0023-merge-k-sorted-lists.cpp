@@ -25,7 +25,7 @@ public:
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int n = lists.size();
-        if(n == 0) return NULL;
+        if(n == 0) return NULL;// important line for avoiding runtime error
         ListNode* merged = lists[0];
         for(int i=1;i<n;i++){
             merged = merge2Lists(merged,lists[i]);
