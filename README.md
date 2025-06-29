@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh2338/LEETCODE/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarsh2338/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/utkarsh2338/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/utkarsh2338/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/utkarsh2338/LEETCODE/tree/master/1656-count-good-triplets) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/utkarsh2338/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/utkarsh2338/LEETCODE/tree/master/0985-bag-of-tokens) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/utkarsh2338/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1962-single-threaded-cpu](https://github.com/utkarsh2338/LEETCODE/tree/master/1962-single-threaded-cpu) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/utkarsh2338/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/utkarsh2338/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/utkarsh2338/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/utkarsh2338/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/utkarsh2338/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/utkarsh2338/LEETCODE/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/utkarsh2338/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/utkarsh2338/LEETCODE/tree/master/0985-bag-of-tokens) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/utkarsh2338/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/utkarsh2338/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
