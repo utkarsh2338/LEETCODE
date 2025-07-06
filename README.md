@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarsh2338/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/utkarsh2338/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/utkarsh2338/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/utkarsh2338/LEETCODE/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/utkarsh2338/LEETCODE/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/utkarsh2338/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/utkarsh2338/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/utkarsh2338/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/utkarsh2338/LEETCODE/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/utkarsh2338/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/utkarsh2338/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
