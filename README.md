@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/utkarsh2338/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/utkarsh2338/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarsh2338/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1033-broken-calculator](https://github.com/utkarsh2338/LEETCODE/tree/master/1033-broken-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/utkarsh2338/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarsh2338/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/utkarsh2338/LEETCODE/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/utkarsh2338/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
