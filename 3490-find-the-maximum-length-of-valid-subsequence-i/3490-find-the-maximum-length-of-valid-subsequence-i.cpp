@@ -14,10 +14,7 @@ public:
             }
         }
         for(int i=0;i<n-1;i++){
-            if(nums[i] % 2 == 0 && nums[i+1] % 2 != 0){
-                alter++;
-            }
-            else if(nums[i]%2 !=0 && nums[i+1]%2 ==0){
+            if(nums[i] % 2 != nums[i+1] % 2){
                 alter++;
             }
         }
