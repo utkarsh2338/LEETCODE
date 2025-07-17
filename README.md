@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0274-h-index](https://github.com/utkarsh2338/LEETCODE/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh2338/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/utkarsh2338/LEETCODE/tree/master/0368-largest-divisible-subset) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/utkarsh2338/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/utkarsh2338/LEETCODE/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/utkarsh2338/LEETCODE/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/utkarsh2338/LEETCODE/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/utkarsh2338/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/utkarsh2338/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh2338/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -1058,4 +1060,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/utkarsh2338/LEETCODE/tree/master/0382-linked-list-random-node) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/utkarsh2338/LEETCODE/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
