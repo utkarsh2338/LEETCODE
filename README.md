@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/utkarsh2338/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
 |  |
 | ------- |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/utkarsh2338/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3790-fruits-into-baskets-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/utkarsh2338/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3790-fruits-into-baskets-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1089,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Geometry
 |  |
 | ------- |
