@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/utkarsh2338/LEETCODE/tree/master/0587-erect-the-fence) |
 | [0790-global-and-local-inversions](https://github.com/utkarsh2338/LEETCODE/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/utkarsh2338/LEETCODE/tree/master/0826-soup-servings) |
 | [1033-broken-calculator](https://github.com/utkarsh2338/LEETCODE/tree/master/1033-broken-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/utkarsh2338/LEETCODE/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarsh2338/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/utkarsh2338/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/utkarsh2338/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/utkarsh2338/LEETCODE/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/utkarsh2338/LEETCODE/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/utkarsh2338/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/utkarsh2338/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1126,4 +1128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/utkarsh2338/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/utkarsh2338/LEETCODE/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
