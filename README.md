@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/utkarsh2338/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/utkarsh2338/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarsh2338/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/utkarsh2338/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/utkarsh2338/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/utkarsh2338/LEETCODE/tree/master/0382-linked-list-random-node) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/utkarsh2338/LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/utkarsh2338/LEETCODE/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/utkarsh2338/LEETCODE/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/utkarsh2338/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/utkarsh2338/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/0455-assign-cookies) |
