@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/utkarsh2338/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/utkarsh2338/LEETCODE/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/utkarsh2338/LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/utkarsh2338/LEETCODE/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/utkarsh2338/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/utkarsh2338/LEETCODE/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/utkarsh2338/LEETCODE/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/utkarsh2338/LEETCODE/tree/master/0945-snakes-and-ladders) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/utkarsh2338/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [1310-watering-plants](https://github.com/utkarsh2338/LEETCODE/tree/master/1310-watering-plants) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utkarsh2338/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/utkarsh2338/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
