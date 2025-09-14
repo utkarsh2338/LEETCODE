@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/utkarsh2338/LEETCODE/tree/master/0985-bag-of-tokens) |
+| [1006-vowel-spellchecker](https://github.com/utkarsh2338/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1022-unique-paths-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/utkarsh2338/LEETCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/utkarsh2338/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/utkarsh2338/LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/utkarsh2338/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/utkarsh2338/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/utkarsh2338/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarsh2338/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/utkarsh2338/LEETCODE/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/utkarsh2338/LEETCODE/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/utkarsh2338/LEETCODE/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/utkarsh2338/LEETCODE/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/utkarsh2338/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1252-break-a-palindrome](https://github.com/utkarsh2338/LEETCODE/tree/master/1252-break-a-palindrome) |
