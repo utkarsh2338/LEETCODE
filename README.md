@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarsh2338/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2023-design-movie-rental-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/utkarsh2338/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/utkarsh2338/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/utkarsh2338/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/utkarsh2338/LEETCODE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -930,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/utkarsh2338/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/utkarsh2338/LEETCODE/tree/master/1962-single-threaded-cpu) |
+| [2023-design-movie-rental-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2429-design-a-food-rating-system) |
@@ -1146,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/utkarsh2338/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 ## Data Stream
 |  |
@@ -1186,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/0493-reverse-pairs) |
+| [2023-design-movie-rental-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
