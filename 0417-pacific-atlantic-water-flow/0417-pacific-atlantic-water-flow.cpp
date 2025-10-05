@@ -1,7 +1,8 @@
+//lrdu
 class Solution {
 public:
     int m,n;
-    vector<vector<int>>directions = {{1,0},{-1,0},{0,1},{0,-1}};
+    vector<vector<int>>directions = {{-1,0},{1,0},{0,-1},{0,1}};
     void dfs(int i,int j,vector<vector<int>>& heights,vector<vector<bool>>& visited){
         visited[i][j] = true;
         for(auto& d: directions){
