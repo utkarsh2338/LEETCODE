@@ -1265,4 +1265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/utkarsh2338/LEETCODE/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
