@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/utkarsh2338/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/utkarsh2338/LEETCODE/tree/master/0372-super-pow) |
 | [0382-linked-list-random-node](https://github.com/utkarsh2338/LEETCODE/tree/master/0382-linked-list-random-node) |
+| [0400-nth-digit](https://github.com/utkarsh2338/LEETCODE/tree/master/0400-nth-digit) |
 | [0587-erect-the-fence](https://github.com/utkarsh2338/LEETCODE/tree/master/0587-erect-the-fence) |
 | [0679-24-game](https://github.com/utkarsh2338/LEETCODE/tree/master/0679-24-game) |
 | [0790-global-and-local-inversions](https://github.com/utkarsh2338/LEETCODE/tree/master/0790-global-and-local-inversions) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/utkarsh2338/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0400-nth-digit](https://github.com/utkarsh2338/LEETCODE/tree/master/0400-nth-digit) |
 | [0493-reverse-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/utkarsh2338/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
