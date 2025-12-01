@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/utkarsh2338/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/utkarsh2338/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/utkarsh2338/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/utkarsh2338/LEETCODE/tree/master/1961-maximum-ice-cream-bars) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/utkarsh2338/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/utkarsh2338/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/utkarsh2338/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/utkarsh2338/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/utkarsh2338/LEETCODE/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1961-maximum-ice-cream-bars](https://github.com/utkarsh2338/LEETCODE/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/utkarsh2338/LEETCODE/tree/master/1962-single-threaded-cpu) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/utkarsh2338/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/utkarsh2338/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/utkarsh2338/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/utkarsh2338/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/utkarsh2338/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/utkarsh2338/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarsh2338/LEETCODE/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
