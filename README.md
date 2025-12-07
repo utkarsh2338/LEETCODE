@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarsh2338/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/utkarsh2338/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/utkarsh2338/LEETCODE/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/utkarsh2338/LEETCODE/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarsh2338/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1247,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/utkarsh2338/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [1310-watering-plants](https://github.com/utkarsh2338/LEETCODE/tree/master/1310-watering-plants) |
 | [1642-water-bottles](https://github.com/utkarsh2338/LEETCODE/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utkarsh2338/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2169-simple-bank-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/utkarsh2338/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
