@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/utkarsh2338/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/utkarsh2338/LEETCODE/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/utkarsh2338/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/utkarsh2338/LEETCODE/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/utkarsh2338/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/utkarsh2338/LEETCODE/tree/master/0200-number-of-islands) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/utkarsh2338/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/utkarsh2338/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarsh2338/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/utkarsh2338/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1441-build-an-array-with-stack-operations](https://github.com/utkarsh2338/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/utkarsh2338/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/utkarsh2338/LEETCODE/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/utkarsh2338/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/utkarsh2338/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/utkarsh2338/LEETCODE/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/utkarsh2338/LEETCODE/tree/master/0368-largest-divisible-subset) |
