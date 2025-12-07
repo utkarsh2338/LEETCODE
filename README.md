@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/1418-fair-distribution-of-cookies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/utkarsh2338/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/utkarsh2338/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/utkarsh2338/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1477-product-of-the-last-k-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/utkarsh2338/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarsh2338/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
+| [1441-build-an-array-with-stack-operations](https://github.com/utkarsh2338/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarsh2338/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/utkarsh2338/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1253,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/utkarsh2338/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [1310-watering-plants](https://github.com/utkarsh2338/LEETCODE/tree/master/1310-watering-plants) |
+| [1441-build-an-array-with-stack-operations](https://github.com/utkarsh2338/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/utkarsh2338/LEETCODE/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/utkarsh2338/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
