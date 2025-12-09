@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/utkarsh2338/LEETCODE/tree/master/0561-array-partition) |
 | [0587-erect-the-fence](https://github.com/utkarsh2338/LEETCODE/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkarsh2338/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0636-exclusive-time-of-functions](https://github.com/utkarsh2338/LEETCODE/tree/master/0636-exclusive-time-of-functions) |
 | [0679-24-game](https://github.com/utkarsh2338/LEETCODE/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/utkarsh2338/LEETCODE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/utkarsh2338/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarsh2338/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarsh2338/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0636-exclusive-time-of-functions](https://github.com/utkarsh2338/LEETCODE/tree/master/0636-exclusive-time-of-functions) |
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1441-build-an-array-with-stack-operations](https://github.com/utkarsh2338/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarsh2338/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
