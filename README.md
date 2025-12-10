@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/utkarsh2338/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/utkarsh2338/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/utkarsh2338/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/utkarsh2338/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/utkarsh2338/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/utkarsh2338/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3830-find-closest-person](https://github.com/utkarsh2338/LEETCODE/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -1328,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/utkarsh2338/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/utkarsh2338/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Combinatorics
 |  |
 | ------- |
