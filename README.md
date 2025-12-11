@@ -1419,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/utkarsh2338/LEETCODE/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/0180-consecutive-numbers) |
 | [0584-find-customer-referee](https://github.com/utkarsh2338/LEETCODE/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/utkarsh2338/LEETCODE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/utkarsh2338/LEETCODE/tree/master/0595-big-countries) |
