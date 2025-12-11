@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/utkarsh2338/LEETCODE/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/utkarsh2338/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/utkarsh2338/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/utkarsh2338/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/utkarsh2338/LEETCODE/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh2338/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/utkarsh2338/LEETCODE/tree/master/0502-ipo) |
 | [0778-reorganize-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0778-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/utkarsh2338/LEETCODE/tree/master/1046-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/utkarsh2338/LEETCODE/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/utkarsh2338/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
