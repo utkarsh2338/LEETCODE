@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/utkarsh2338/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/utkarsh2338/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/utkarsh2338/LEETCODE/tree/master/0482-license-key-formatting) |
+| [0686-repeated-string-match](https://github.com/utkarsh2338/LEETCODE/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/utkarsh2338/LEETCODE/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0778-reorganize-string) |
 | [0796-rotate-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0796-rotate-string) |
@@ -1258,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/utkarsh2338/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/utkarsh2338/LEETCODE/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/utkarsh2338/LEETCODE/tree/master/1508-longest-happy-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/utkarsh2338/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
