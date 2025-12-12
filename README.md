@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/utkarsh2338/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0768-partition-labels](https://github.com/utkarsh2338/LEETCODE/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/utkarsh2338/LEETCODE/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/utkarsh2338/LEETCODE/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
@@ -1257,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/utkarsh2338/LEETCODE/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/utkarsh2338/LEETCODE/tree/master/1508-longest-happy-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/utkarsh2338/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
