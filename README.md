@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/utkarsh2338/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh2338/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/utkarsh2338/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/utkarsh2338/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/utkarsh2338/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0768-partition-labels](https://github.com/utkarsh2338/LEETCODE/tree/master/0768-partition-labels) |
@@ -1255,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/utkarsh2338/LEETCODE/tree/master/0459-repeated-substring-pattern) |
 | [1508-longest-happy-prefix](https://github.com/utkarsh2338/LEETCODE/tree/master/1508-longest-happy-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/utkarsh2338/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
