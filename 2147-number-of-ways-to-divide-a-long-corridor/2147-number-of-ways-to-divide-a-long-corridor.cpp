@@ -4,22 +4,33 @@ public:
         // Store 1000000007 in a variable for convenience
         const int MOD = 1e9 + 7;
 
-        // Initial values of three variables
-        int zero = 0;
-        int one = 0;
-        int two = 1;
-
-        // Compute using derived equations
-        for (char thing : corridor) {
-            if (thing == 'S') {
-                zero = one;
-                swap(one, two);
-            } else {
-                two = (two + zero) % MOD;
+        // Store indices of S in an array
+        vector<int> indices;
+        for (int index = 0; index < corridor.length(); index++) {
+            if (corridor[index] == 'S') {
+                indices.push_back(index);
             }
         }
 
-        // Return the result
-        return zero;
+        // When division is not possible
+        if (indices.size() == 0 || indices.size() % 2 == 1) {
+            return 0;
+        }
+
+        // Total number of ways
+        long count = 1;
+
+        // Take product of non-paired neighbors
+        int previousPairLast = 1;
+        int currentPairFirst = 2;
+        while (currentPairFirst < indices.size()) {
+            count *= (indices[currentPairFirst] - indices[previousPairLast]);
+            count %= MOD;
+            previousPairLast += 2;
+            currentPairFirst += 2;
+        }
+
+        // Return the number of ways
+        return (int) count;
     }
 };
