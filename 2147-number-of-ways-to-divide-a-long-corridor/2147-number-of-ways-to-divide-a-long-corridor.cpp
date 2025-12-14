@@ -4,28 +4,22 @@ public:
         // Store 1000000007 in a variable for convenience
         const int MOD = 1e9 + 7;
 
-        // Initialize the array to store the result of each sub-problem
-        int count[corridor.length() + 1][3];
+        // Initial values of three variables
+        int zero = 0;
+        int one = 0;
+        int two = 1;
 
-        // Base cases
-        count[corridor.length()][0] = 0;
-        count[corridor.length()][1] = 0;
-        count[corridor.length()][2] = 1;
-
-        // Fill the array in a bottom-up fashion
-        for (int index = corridor.length() - 1; index >= 0; index--) {
-            if (corridor[index] == 'S') {
-                count[index][0] = count[index + 1][1];
-                count[index][1] = count[index + 1][2];
-                count[index][2] = count[index + 1][1];
+        // Compute using derived equations
+        for (char thing : corridor) {
+            if (thing == 'S') {
+                zero = one;
+                swap(one, two);
             } else {
-                count[index][0] = count[index + 1][0];
-                count[index][1] = count[index + 1][1];
-                count[index][2] = (count[index + 1][0] + count[index + 1][2]) % MOD;
+                two = (two + zero) % MOD;
             }
         }
 
         // Return the result
-        return count[0][0];
+        return zero;
     }
 };
