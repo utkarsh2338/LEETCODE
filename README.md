@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/utkarsh2338/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/utkarsh2338/LEETCODE/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/utkarsh2338/LEETCODE/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/utkarsh2338/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/utkarsh2338/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/utkarsh2338/LEETCODE/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/utkarsh2338/LEETCODE/tree/master/0079-word-search) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/utkarsh2338/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/utkarsh2338/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/utkarsh2338/LEETCODE/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/utkarsh2338/LEETCODE/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarsh2338/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/utkarsh2338/LEETCODE/tree/master/0231-power-of-two) |
