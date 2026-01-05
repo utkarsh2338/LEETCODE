@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/utkarsh2338/LEETCODE/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/utkarsh2338/LEETCODE/tree/master/1962-single-threaded-cpu) |
+| [1975-maximum-matrix-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarsh2338/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/utkarsh2338/LEETCODE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/utkarsh2338/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/utkarsh2338/LEETCODE/tree/master/1961-maximum-ice-cream-bars) |
+| [1975-maximum-matrix-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/utkarsh2338/LEETCODE/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/utkarsh2338/LEETCODE/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/utkarsh2338/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarsh2338/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/utkarsh2338/LEETCODE/tree/master/1876-map-of-highest-peak) |
+| [1975-maximum-matrix-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/utkarsh2338/LEETCODE/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/utkarsh2338/LEETCODE/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/utkarsh2338/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
