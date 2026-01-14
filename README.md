@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/utkarsh2338/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/utkarsh2338/LEETCODE/tree/master/3531-count-covered-buildings) |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/utkarsh2338/LEETCODE/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/utkarsh2338/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/utkarsh2338/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh2338/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/utkarsh2338/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/utkarsh2338/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/utkarsh2338/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/utkarsh2338/LEETCODE/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/utkarsh2338/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh2338/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/utkarsh2338/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/utkarsh2338/LEETCODE/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3790-fruits-into-baskets-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Heap (Priority Queue)
@@ -1409,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/utkarsh2338/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/utkarsh2338/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
+| [3569-maximize-count-of-distinct-primes-after-split](https://github.com/utkarsh2338/LEETCODE/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Combinatorics
 |  |
