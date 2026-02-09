@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/utkarsh2338/LEETCODE/tree/master/1252-break-a-palindrome) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/utkarsh2338/LEETCODE/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/utkarsh2338/LEETCODE/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/utkarsh2338/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/utkarsh2338/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/utkarsh2338/LEETCODE/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Tree
 |  |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarsh2338/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/utkarsh2338/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/utkarsh2338/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -869,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarsh2338/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/utkarsh2338/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/utkarsh2338/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/utkarsh2338/LEETCODE/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/utkarsh2338/LEETCODE/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -931,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarsh2338/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/utkarsh2338/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/utkarsh2338/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Two Pointers
@@ -1392,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarsh2338/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
