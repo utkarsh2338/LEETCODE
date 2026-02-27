@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/utkarsh2338/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/utkarsh2338/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/utkarsh2338/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/utkarsh2338/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/utkarsh2338/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/utkarsh2338/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/utkarsh2338/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/utkarsh2338/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/utkarsh2338/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/utkarsh2338/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1462,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/utkarsh2338/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/utkarsh2338/LEETCODE/tree/master/2429-design-a-food-rating-system) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/utkarsh2338/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Geometry
@@ -1534,4 +1538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/utkarsh2338/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/utkarsh2338/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
