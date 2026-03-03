@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/utkarsh2338/LEETCODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarsh2338/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/utkarsh2338/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/utkarsh2338/LEETCODE/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/utkarsh2338/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/utkarsh2338/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/utkarsh2338/LEETCODE/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/utkarsh2338/LEETCODE/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/utkarsh2338/LEETCODE/tree/master/0242-valid-anagram) |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/utkarsh2338/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/utkarsh2338/LEETCODE/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/utkarsh2338/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/utkarsh2338/LEETCODE/tree/master/0165-compare-version-numbers) |
