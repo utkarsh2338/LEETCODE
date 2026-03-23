@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/utkarsh2338/LEETCODE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarsh2338/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/utkarsh2338/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/utkarsh2338/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/utkarsh2338/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/utkarsh2338/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarsh2338/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/utkarsh2338/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/utkarsh2338/LEETCODE/tree/master/1418-fair-distribution-of-cookies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarsh2338/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/utkarsh2338/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarsh2338/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/utkarsh2338/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/utkarsh2338/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/utkarsh2338/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarsh2338/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/utkarsh2338/LEETCODE/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
