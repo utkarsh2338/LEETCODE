@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/utkarsh2338/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/utkarsh2338/LEETCODE/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/utkarsh2338/LEETCODE/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/utkarsh2338/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/utkarsh2338/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/utkarsh2338/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3640-trionic-array-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3640-trionic-array-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarsh2338/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 ## Backtracking
 |  |
@@ -1281,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/utkarsh2338/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
 |  |
