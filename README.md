@@ -1095,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/utkarsh2338/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3640-trionic-array-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3640-trionic-array-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarsh2338/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/3772-maximum-subgraph-score-in-a-tree) |
@@ -1373,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/utkarsh2338/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/utkarsh2338/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Trie
