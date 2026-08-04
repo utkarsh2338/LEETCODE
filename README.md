@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/utkarsh2338/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/utkarsh2338/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/utkarsh2338/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/utkarsh2338/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarsh2338/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/utkarsh2338/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/utkarsh2338/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/utkarsh2338/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/utkarsh2338/LEETCODE/tree/master/3748-sort-matrix-by-diagonals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Monotonic Stack
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/utkarsh2338/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-find-missing-elements](https://github.com/utkarsh2338/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/utkarsh2338/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/utkarsh2338/LEETCODE/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
