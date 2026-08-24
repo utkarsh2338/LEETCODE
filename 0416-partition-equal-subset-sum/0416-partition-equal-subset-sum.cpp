@@ -6,7 +6,7 @@ public:
         for(auto& num : nums){
             totalSum += num;
         }
-        if(totalSum % 2 !=0) return false;
+        if(totalSum % 2 !=0) return false;// -> this needed to be checked, the partition or equal sum is possible only if the targetSum is even
         int targetSum = totalSum/2;
         vector<vector<bool>>dp(n+1,vector<bool>(targetSum+1,false));
         for(int i=0;i<n+1;i++){
@@ -14,7 +14,7 @@ public:
         }
         for(int i=1;i<n+1;i++){
             for(int j =1;j<targetSum+1;j++){
-                if(nums[i-1] <= j){
+                if(nums[i-1] <= j){// -> Here I was checking targetSum but I should have gone with j only
                     dp[i][j] = dp[i-1][j-nums[i-1]]||dp[i-1][j];
                 }
                 else dp[i][j]=dp[i-1][j];
