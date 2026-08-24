@@ -1648,4 +1648,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/utkarsh2338/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/utkarsh2338/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/utkarsh2338/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
