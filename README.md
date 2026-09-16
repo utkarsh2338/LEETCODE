@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/utkarsh2338/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/utkarsh2338/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/utkarsh2338/LEETCODE/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/utkarsh2338/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/utkarsh2338/LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/utkarsh2338/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/utkarsh2338/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/utkarsh2338/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/utkarsh2338/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/utkarsh2338/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0307-range-sum-query-mutable](https://github.com/utkarsh2338/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0372-super-pow](https://github.com/utkarsh2338/LEETCODE/tree/master/0372-super-pow) |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/utkarsh2338/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/utkarsh2338/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/utkarsh2338/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/utkarsh2338/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/utkarsh2338/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarsh2338/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/utkarsh2338/LEETCODE/tree/master/0131-palindrome-partitioning) |
