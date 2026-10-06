@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/utkarsh2338/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/utkarsh2338/LEETCODE/tree/master/0636-exclusive-time-of-functions) |
 | [0780-max-chunks-to-make-sorted](https://github.com/utkarsh2338/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh2338/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/utkarsh2338/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/utkarsh2338/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarsh2338/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/utkarsh2338/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/utkarsh2338/LEETCODE/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/utkarsh2338/LEETCODE/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh2338/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/utkarsh2338/LEETCODE/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/utkarsh2338/LEETCODE/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/utkarsh2338/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/utkarsh2338/LEETCODE/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/utkarsh2338/LEETCODE/tree/master/0878-shifting-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh2338/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/utkarsh2338/LEETCODE/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/utkarsh2338/LEETCODE/tree/master/1006-vowel-spellchecker) |
@@ -1676,4 +1679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarsh2338/LEETCODE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh2338/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
