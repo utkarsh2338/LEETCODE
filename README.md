@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarsh2338/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/utkarsh2338/LEETCODE/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/utkarsh2338/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/utkarsh2338/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/utkarsh2338/LEETCODE/tree/master/0200-number-of-islands) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/utkarsh2338/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/utkarsh2338/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/utkarsh2338/LEETCODE/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/utkarsh2338/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/utkarsh2338/LEETCODE/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/utkarsh2338/LEETCODE/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/utkarsh2338/LEETCODE/tree/master/0274-h-index) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/utkarsh2338/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarsh2338/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/utkarsh2338/LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/utkarsh2338/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/utkarsh2338/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/utkarsh2338/LEETCODE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/utkarsh2338/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -894,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/utkarsh2338/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/utkarsh2338/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarsh2338/LEETCODE/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/utkarsh2338/LEETCODE/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/utkarsh2338/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0372-super-pow](https://github.com/utkarsh2338/LEETCODE/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/utkarsh2338/LEETCODE/tree/master/0493-reverse-pairs) |
@@ -1348,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/utkarsh2338/LEETCODE/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh2338/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkarsh2338/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/utkarsh2338/LEETCODE/tree/master/0778-reorganize-string) |
@@ -1683,4 +1688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utkarsh2338/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/utkarsh2338/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
